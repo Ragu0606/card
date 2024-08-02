@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.ggr{
+    background-color: black;
+    margin: 10px;
+    margin-left: 400px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: justify;
+    display:inline-block; 
+
+   
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+p{
+   
+    color: white;
+    width: 200px;
+
+}
+
+button{
+    margin: 10px;
+    padding: 5px;
+    border: solid 1px red ;
+    border-radius: 10px;
+}
+button:hover{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
